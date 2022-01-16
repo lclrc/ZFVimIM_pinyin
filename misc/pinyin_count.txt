@@ -1,0 +1,1894 @@
+a 9 3
+ai 2
+aisizhushou 1
+ali 9
+an 15 1 1
+anjian 1
+anniu 2
+anpai 2
+anquan 2
+anzhao 17
+anzhuang 12
+anzhuo 1
+ao 2
+ba 8 5
+babangding 1
+bai 2 1
+baidu 7
+ban 2 1
+banben 9
+banbenhao 8
+banchang 4
+bang 2
+bangding 11
+bangdingma 19
+bangzhu 1
+bao 75 1
+baochi 3
+baocun 12
+baohan 27
+baojia 1
+baokuo 14
+baoliu 1
+baoming 1 1
+baoxiang 30
+baozheng 3
+bazhi 1
+bei 14 1
+beifen 2
+beijing 7
+beitai 4
+beizhu 11
+ben 32
+benci 5
+bendi 25
+bengdi 1
+bengkui 2
+benshen 8
+bi 14 8 2 1
+bian 6 3 1
+biancheng 1
+biangeng 1
+bianhao 4
+bianhua 8
+bianji 2
+bianli 10 2
+bianliang 9
+bianma 10
+bianshu 1
+bianyi 10
+bianyiqi 2
+bianyu 2
+biao 30 6
+biaochang 2
+biaoji 13
+biaojiwei 1
+biaoqing 9
+biaoshi 41
+biaoti 1
+biaotou 1
+biaowei 1
+biaozhi 11
+biaozhun 3
+biding 1
+bie 12
+bieren 1
+biewen 1
+bijiao 8
+bimian 14
+bin 1
+bing 47
+bingqie 13
+biran 5
+biru 2
+bitian 11
+bixian 1
+bixu 27
+biyao 1
+bo 15
+bofang 82
+bofangde 1
+bofangqi 2
+bokong 11
+boyi 1
+bu 86 2 2 1
+bubian 2
+buchong 2
+buchuxian 1
+buda 1
+budao 2
+budayu 1
+buduan 2
+budui 1
+buduo 10
+bufen 11
+bugou 1
+buguo 6
+buhao 1
+buhui 17
+bujian 39
+bukao 1
+bukaolv 1
+buke 1 1
+buneng 13
+buquan 22
+buqufen 1
+burong 1
+burongyi 1
+bushi 6
+bushu 5
+butian 8
+butong 25
+buwei 2 2
+buxiangdeng 1
+buxuyao 9
+buyao 12
+buyiding 3
+buyingwei 1
+buyizhi 1
+buyong 2
+buzai 4
+buzhichi 9
+buzhou 9
+buzuo 3
+ca 4
+cacuowuma 1
+cai 5 5
+caige 1
+caijian 1
+caineng 1
+caiyong 10
+caizhi 9
+can 1
+canjian 33
+cankao 3
+canshu 46
+canyu 1
+canzhao 4
+cao 2
+caozuo 22
+ce 14 1 1
+ceng 7
+cengci 3
+cengjing 2
+ceshi 120
+cha 19 6 1
+chabuduo 5
+chai 3 2
+chaifen 3
+chaixie 1
+chajian 30
+chakan 5
+chanchu 2
+chang 10 8 7 2
+changdu 4
+changge 1
+changjian 2
+changjing 25
+changju 1
+changlianjie 1
+changshi 3
+changshu 2
+changsuo 2
+changtai 3
+changwei 1
+changyong 2
+chanpin 6
+chansheng 5
+chaoguo 4
+chaoshi 20 1
+charu 10
+chaxun 27
+chayi 1
+chazhao 29
+che 1
+chen 1
+cheng 6 3 2
+chengben 1
+chengdu 1
+chengfa 1
+chenggong 40
+chengjidan 6
+chengshang 1
+chengwei 10
+chengxu 8
+chengyi 1
+chengyuan 4
+chi 3 1 1
+chibang 2
+chicun 2
+chongdingxiang 3
+chongfu 14
+chonggou 2
+chongqi 2
+chongshi 5
+chongtu 23
+chongxin 11
+chouqu 3
+chu 9 4 3 1
+chuan 9 1
+chuandi 5
+chuangguan 2
+chuangjian 11
+chuangkou 7
+chuangxin 4
+chuanru 1
+chudui 2
+chufa 2 1
+chufaqi 50
+chulai 1
+chule 3
+chuli 43
+chun 6
+chuo 1
+chuqi 1
+chushi 6
+chushihua 4
+chuxian 12
+chuyi 1
+ci 13 10 2
+cichu 3
+ciku 29
+cilie 1
+cipin 3
+cishi 7
+cishu 8
+ciwai 3
+cizu 1
+cong 35
+couhe 4
+cu 2
+cuan 1
+cun 5
+cunchu 11
+cunfang 4
+cunru 1
+cunzai 19
+cuowu 14
+cuowuma 7
+d 648
+da 14 11 1 1
+dabao 22
+dabian 1
+daduo 2
+dai 17 8 1
+daijia 1
+daikuan 1
+dailai 1
+daima 33
+dajia 1
+dakai 16
+dan 36 5 1
+danbu 1
+dandu 5
+dang 20
+dangqian 73
+dangran 3
+danli 1
+danmu 2
+danshi 8
+danteng 1
+danwei 8
+danxiang 2 1
+danxin 1
+danyuan 1
+dao 115 1
+daochu 5
+daoqi 2
+daoren 1
+daoru 6
+daozhi 1
+dasai 4
+dating 5 1
+dawenjian 1
+daxiao 5
+daxie 1
+dayin 1
+dayu 2
+dayue 2
+de 141 7 1
+dechu 1
+dedao 12
+defen 1
+dehua 3
+deng 35
+dengdai 6
+dengguang 18
+dengji 4
+dengkong 20
+denglu 14
+dezhi 1
+di 11 5 1
+dia 1
+dian 57 13
+dianci 1
+diange 32
+diangetai 11
+dianji 16
+dianshi 7
+dianshiping 9
+dianxin 1
+dianxing 1
+diao 3
+diaoxian 2
+diaoyan 1
+diaoyong 28
+diaoyongzhe 1
+dibu 1
+die 2
+diedai 2
+dier 1
+difang 2
+digui 1
+ding 11 1
+dingbu 3
+dingdan 5
+dingqi 2
+dingshi 6
+dingshiqi 11
+dingyi 6
+dingzhi 3
+dingzhifa 2
+disan 1
+disanfang 8
+diuqi 7
+diushi 2
+diyi 12
+diyige 8
+dizeng 1
+dizhi 60
+dizi 1
+dong 4 3
+dongbu 1
+donggan 6
+donghua 3
+dongtai 4
+dongzuo 56
+dou 44
+doufu 3
+douhao 12
+doushi 8
+douzai 1
+du 20 1
+duan 18 4 1 1
+duandian 3
+dui 40 3
+duibi 1
+duichang 13
+duifang 6
+duijie 1
+duikong 1
+duilie 15
+duiman 1
+duiqi 1
+duiwai 6
+duixiang 8
+duiying 14
+duiyu 26
+duizhang 3
+duli 3
+dun 4
+duo 10
+duoci 5
+duoge 24
+duojiu 2
+duoshao 2
+duozhong 1
+duqu 1
+e 7
+en 1
+er 6 3
+erci 2
+erji 2 1
+erjinzhi 2
+erqie 1
+ershi 1
+erwei 1
+erweima 12
+erweizhi 1
+erxuanyi 7
+ewai 18
+fa 16 14
+fabu 6
+fagei 1
+fahui 1
+fan 1
+fang 15 9 1 1 1
+fangan 54
+fangbian 4
+fangda 2
+fangfa 12
+fangjian 4
+fangshi 33
+fangwen 7
+fangzai 2
+fangzhi 3
+fanhui 50
+fanwei 3
+fanye 1
+fanyi 4
+faqi 61
+fasheng 7
+fashi 3
+fasong 21
+faxian 5
+fei 29
+feichang 3
+feidao 1
+fen 29 7
+fenbu 7
+feng 18 5
+fenge 14
+fengge 4
+fengli 3
+fenlei 5
+fenpei 16
+fenping 30
+fenshu 9
+fenwei 3
+fenxi 2
+fenxiang 5
+fenzhi 4
+fenzhong 4
+fenzu 25
+fou 2
+fouze 11
+fu 4 2 1 1
+fucha 1
+fufei 25
+fugai 1
+fuge 1
+fuhao 1
+fuhe 1
+fujiedian 3
+fujin 1
+fulu 1
+fushi 1
+fushu 1
+fuwu 4
+fuwuqi 16
+fuxian 1
+fuyong 1
+fuza 1
+fuzadu 1
+fuze 2
+fuzhi 5
+ga 4
+gai 51 1
+gaibian 2
+gaidong 1
+gainian 2
+gaiwei 5
+gaiyao 1
+gaizao 2
+galeixing 2
+gan 8
+gang 3 2
+gangti 4
+ganjue 5
+ganxie 1
+gao 11
+gaochao 2
+gaodu 2
+gaofen 1
+gaoliang 2
+gaoqing 1
+ge 43 28 2
+geci 5
+gedan 1
+geduan 3
+gege 5
+gei 15
+gen 14 4
+geng 2
+gengduo 1
+genghao 7
+gengxin 43
+gengyou 1
+genju 29
+gequ 50
+geren 2
+geshi 14
+geshou 2
+geshu 16
+gezhong 8
+gezi 6
+gong 3 1
+gongbo 2
+gongcheng 1
+gonggong 2
+gonggongzuo 1
+gongju 16
+gongneng 7
+gongnengjian 1
+gongshi 4 2
+gongxiang 1
+gongzhonghao 1
+gongzuo 2
+goujian 2
+goumai 3
+gouxuan 5
+gouzao 2
+gua 2
+guajian 8
+guan 6
+guanbi 37
+guandiao 1
+guang 2 1
+guangbo 3
+guangfan 1
+guanggao 7
+guanghuan 1
+guangying 1
+guanjian 5
+guanjianzi 11
+guanka 1
+guanli 15
+guanlian 3
+guanxi 2
+guanzhu 2
+guding 19
+guge 14
+gui 1
+guifan 3
+guiyi 1
+guize 17
+gun 1
+guo 20
+guochang 2
+guocheng 11
+guodu 2
+guolv 3
+guoqi 15
+guoqu 1
+h 25
+ha 1
+hai 11 1 1
+haibu 3
+haihui 1
+haimei 1
+haineng 1
+haishi 11
+haixing 3
+haiyao 1
+haizi 1
+han 1 1
+hang 12
+hanshu 32
+hanyi 1
+hanyou 3
+hao 18 10
+haochu 5
+haode 1
+haomiao 7
+haoshi 3
+haoyong 9
+haoyou 1
+haozai 1
+haxi 7
+he 107 1 1
+hebing 24
+hechang 76
+hecheng 1
+hefa 3
+hegui 1
+hei 6
+heise 2
+heli 3
+hen 2
+henda 1
+hendi 2
+henduo 4
+hengping 6
+hengxiang 1
+heni 2
+henshao 1
+hese 1
+heshi 6
+heshu 3
+hexin 4
+hong 6 1
+hongbao 4
+hongse 3
+hou 75
+houduan 5
+houmian 1
+houtai 25
+houxu 4
+hu 4 2
+hua 12 9 2 2
+huadian 1
+huaichu 5
+huali 5
+huamian 1
+huan 13 2
+huancun 24
+huang 3
+huanhu 1
+huanjie 1
+huanjing 12
+huanle 1
+huanmu 5
+huanzhuang 3
+hubuxiangjiao 1
+huchengwei 1
+huchi 1
+hudong 1
+hui 49
+huibao 7
+huida 2
+huidao 1
+huidiao 14
+huifang 1
+huifu 43 10
+huigun 1
+huilai 1
+huitui 1
+huiyi 2
+hulue 3
+hun 2
+huo 92
+huode 12
+huodong 16
+huojiang 1
+huoqu 49
+huozhe 6
+huxiang 2
+ji 20 10 3 2 1 1 1 1
+jia 19 3 2 1 1 1
+jiading 1
+jiage 7
+jiakuai 1
+jiami 24
+jian 4 2 1 1 1 1
+jiance 4
+jiancha 7
+jiancheng 2
+jiandan 5
+jiang 57 5 4 1
+jiange 4
+jiangli 4
+jianhua 5
+jianjie 7
+jiankong 1
+jianrong 2
+jianshao 4
+jianting 9
+jianyao 2
+jianyi 38
+jiao 6 4 2 1 1
+jiaoben 7
+jiaocha 8
+jiaochang 1
+jiaocheng 1
+jiaodi 3
+jiaodu 1
+jiaoduo 3
+jiaohu 12
+jiaojiu 1
+jiaowei 3
+jiaoxiao 2
+jiaoyan 1
+jiaoyou 1
+jiaozuo 1
+jiaru 18 3
+jiayou 1
+jiazai 58
+jiazhi 5
+jiben 9
+jichu 3
+jide 1
+jiding 11
+jidinghe 76
+jie 11 1 1 1
+jiedian 64 1
+jiegou 14
+jieguo 7
+jiehe 1
+jiejin 2
+jiejue 5
+jiekou 60
+jiema 3
+jiemi 1
+jiemian 3
+jieru 3
+jieshao 5
+jieshou 16 8
+jieshu 36
+jiewei 1
+jiexi 9
+jieya 7
+jifang 1
+jifen 3
+jige 4
+jihe 2
+jihua 3
+jijiang 3
+jijiayi 1
+jijiekou 1
+jike 14
+jilei 1
+jili 1
+jilu 30
+jimiao 2
+jin 26 2 1 1 1
+jinbu 2
+jincheng 1
+jindang 1
+jindu 9
+jing 2 2 1 1
+jingcai 1 1
+jingguo 2
+jingjian 1
+jingli 3 1
+jingtou 3
+jingyan 1
+jingyin 4
+jingzhu 1
+jinhou 2
+jinjing 1
+jinliang 3
+jinqu 1
+jinru 20
+jinxing 32
+jinyong 5
+jinyou 1
+jinzhi 10 3
+jishi 4 2
+jishu 3 1
+jisuan 36
+jisuanji 1
+jisuanshijian 1
+jiu 20 12 5
+jiude 1
+jiuneng 1
+jiuqu 1
+jiushi 6
+jiwei 1
+jixu 6
+jiyi 2
+jiyidian 1
+jiyu 2 1
+jizhang 1 1
+jizhi 3
+jizhong 2 1 1
+ju 5 2 1 1 1
+juchang 1
+juchi 1
+juede 2
+jueding 2
+juji 2
+jujiao 1
+jujue 15
+juli 2 1
+jumu 3
+jun 3
+junwei 1
+junyun 5
+juti 19
+juyou 1
+ka 5 1
+kai 11
+kaichang 9
+kaifa 3
+kaifang 22
+kaiguan 3
+kaiqi 20
+kaishi 29
+kan 11
+kang 1
+kankan 1
+kao 1 1
+kaojin 1
+kaolv 24
+kaosheng 2
+kaoshi 3
+ke 37 6
+kedu 2
+keduxing 1
+ken 2
+keneng 39
+keqing 1
+keti 1
+kexuan 16
+kexue 4
+keyi 12
+keyong 4
+kong 46 1
+kongge 5
+kongjian 5 1
+kongshu 3
+kongzhi 21
+kou 1
+ku 6
+kua 1
+kuai 2
+kuaijie 2
+kuaisu 6
+kuang 9
+kuangao 1
+kuangjia 37
+kunnan 3
+kuohao 5
+kuozhan 8
+kuzi 2
+ky 80
+l 45
+la 3 1
+lai 25
+laishuo 1
+laiyuan 3
+laizi 4
+laji 2
+lan 3 1
+lanse 1
+lao 1
+laoshi 4
+le 5
+lei 5 1
+leiji 1
+leisi 5
+leixing 69
+li 8 3 2 2 1
+lia 6
+lian 3 1 1 1
+liandizhifa 1
+liang 8 4 1
+liangci 2
+liangdu 5
+liangge 11
+liangre 1
+liangwei 1
+liangzhong 3
+lianji 1
+lianjie 10 4 1
+lianjiyu 1
+liantiao 1
+lianwang 5
+lianxian 1
+lianxu 4
+lie 14
+liebiao 56
+lieju 1
+liji 2
+lijie 1
+likai 1
+like 3
+limao 2
+limian 1
+lin 2
+ling 2 1
+linghuo 1
+lingjiang 3
+linshi 2
+liru 73
+lishi 12
+liu 6 2 1
+liucheng 11
+liuliang 1
+lixian 8
+lixiang 1 1
+lixiangqingkuang 1
+liyong 4
+liyou 2
+lizi 2
+lo 1
+long 1
+lou 1
+lu 1
+luan 4
+lugui 1
+lujing 39
+lun 3
+lunhuan 1
+lunliu 1
+luo 1
+luoji 11
+luomo 12
+luyin 1
+luzhi 3
+lv 1
+ma 10 1
+maidian 1
+maike 1
+maikefeng 1
+mamulu 1
+man 9 1
+manong 1
+manyao 2
+manzu 1
+mao 3
+mawenjian 1
+mayi 1
+me 1
+mei 13 5
+meici 8
+meifa 2
+meige 17 2
+meigui 2
+meiren 1
+meiti 1
+meitian 1
+meiyou 56
+meizhong 1
+meizhou 2
+men 1
+mi 35 2 1
+mian 1
+mianban 3
+mianfei 2
+miao 12
+mici 1
+mie 1
+mima 1
+ming 48 1 1
+mingbai 1
+mingci 1 1
+mingdan 1
+mingliang 1
+mingling 5
+mingming 4
+mingque 2
+mingxian 3
+mingxing 4
+mingzi 3
+mo 11
+mofa 4
+mohu 2
+mokuai 12
+moni 5
+moqi 5
+moren 35
+morenzhi 1
+moshi 27
+mou 5
+mouge 7
+mouxie 1
+mouzhong 2
+mowei 2
+moxing 62
+moyun 9
+mu 3
+muban 4
+mudi 1
+mulu 58
+muqian 20
+n 13
+na 5
+nage 12
+name 2
+nan 29 8 2
+nandu 1
+nanyi 2
+natian 4
+naxie 3 1
+ne 5
+nei 15
+neibu 11
+neicun 7
+neirong 36
+neiwang 8
+neizhi 3
+nen 1
+neng 25
+nengfou 6
+nenggou 7
+nengliangtiao 4
+ng 2
+ni 16 1
+nicheng 2
+nie 1
+nielian 2
+nihao 1
+nin 3
+nixu 1
+nizhong 1
+nuo 1
+nv 19
+o 14
+pa 1
+pai 5 1
+paicha 5
+paifeng 2
+paihang 2
+paiqi 6
+paixu 8
+pan 1 1
+panduan 21
+pang 1 1
+pangda 2
+pao 2
+paotong 1
+pei 1
+peihe 2
+peijian 3
+peishi 2
+peizhi 74
+pen 1
+pi 4
+pian 1
+piantou 1
+pifu 4
+piliang 5
+pin 5 1
+pinfan 1
+ping 37 1 1
+pingfang 3
+pingfen 25
+pinghua 1
+pingjia 2
+pingjing 2
+pingjun 13
+pingmian 1
+pingmu 5
+pingpan 7
+pingshen 1
+pingtai 26
+pingxuan 2
+pingyu 1
+pinjie 1
+pinqiong 1
+pinyin 1
+pipei 4
+pu 1
+puliang 2
+putong 16
+qi 9 4 1 1 1 1
+qia 1
+qian 19 2 1
+qianbao 1
+qianduan 8
+qiangdiao 2
+qianghua 4
+qiangzhi 5
+qianhou 1
+qianmian 8
+qianming 5
+qianque 1
+qianru 1
+qianyi 1
+qianzhui 1
+qianzou 1
+qidong 28
+qie 13
+qiege 2
+qiehuan 31
+qilai 4
+qin 1 1
+qing 41 5
+qingchu 1 1
+qingjie 1
+qingkan 4
+qingkong 3
+qingkuang 30
+qingli 2
+qingliang 1
+qingqiu 26
+qingwu 1
+qingxi 3
+qinru 1
+qiong 2
+qiongju 1
+qiqing 1
+qishi 2 1
+qita 45
+qitao 1
+qiu 16
+qiude 1
+qiwang 5
+qiwangyinggai 1
+qiyong 6 3
+qiyu 2
+qizhong 4
+qu 19 2 1
+quan 11 1
+quanchang 2
+quanguo 1
+quanliang 1
+quanping 3
+quanxian 3
+quanzhen 1
+qubie 1
+quchu 3
+qudao 1
+qude 2
+qudiao 1
+que 3 2
+quebao 5
+quedian 1
+queding 6
+queren 14
+queshao 1
+qufen 11
+qujian 2
+quku 5
+qunzi 7
+quxiao 3
+quyu 4
+quzhi 3
+quzhongfa 1
+ran 1
+rang 6
+rangren 1
+ranhou 6
+re 6
+regengxin 4
+ren 25 2 1
+reng 2
+renhe 3
+renmen 1
+renwu 37 20
+renyi 8 1
+renyu 1
+renyuan 21
+ri 12
+richang 2
+rizhi 14
+rong 2
+rongcuo 7
+ronghe 1
+rongliang 1
+rongyi 5
+rou 1
+rouhe 2
+ru 22 5
+ruanjian 4
+ruci 1
+ruguo 51
+ruguoruguo 1
+ruhe 3
+rukou 7
+ruo 14
+ruxia 7
+sa 1
+saima 2
+san 4 1
+sange 2
+sanlie 48
+sanliefa 2
+sanwei 2
+sanzhong 2
+saoma 1
+seng 1
+senlin 1
+sha 3 1
+shan 3 1 1
+shanchu 27
+shang 40
+shangbanshen 1
+shangbao 17
+shangchuan 28
+shangci 6
+shangdilei 1
+shangji 3
+shangjia 40 3
+shangmian 1
+shangshu 4
+shangwang 4
+shangwei 2
+shangwu 1
+shangxia 1
+shangxian 2
+shangyi 10
+shangyizhen 1
+shangyizu 1
+shantui 1
+shanyixia 1
+shanyu 1
+shao 4
+shaohou 3
+shaowei 1
+shashangjia 1
+shazi 1
+she 2 1
+shebei 15
+sheji 30 2
+shejiao 6
+shen 2 1
+shendu 2
+sheng 6 1
+shengcheng 13
+shengji 12
+shengri 1
+shengxia 1
+shengxiao 4
+shengyin 2
+shengyu 5
+shenhe 1
+shenme 9
+shenti 7
+shezhi 38
+shi 207 61 4 2 2 1 1
+shibai 24
+shichang 8
+shifen 1
+shifou 71
+shih 8
+shihe 2
+shihou 3
+shiji 8
+shijian 62 43
+shijianchuo 3
+shijiao 1
+shike 4
+shili 14 1
+shipei 3
+shipin 76
+shiqi 1
+shiqu 1
+shishi 3
+shiti 2
+shiwei 7
+shixian 28
+shixiao 5
+shiyan 1
+shiyong 84
+shou 6 1 1 1
+shouci 13
+shoudao 21
+shoudong 17
+shouduan 1
+shouji 6
+shoujiduan 8
+shouquan 4
+shouxian 1
+shouye 9
+shouyi 16 2
+shu 30 13 2 1
+shuai 1
+shuang 1
+shuangji 2
+shuangqin 2
+shubiao 1
+shubiaodianji 1
+shuchu 7
+shui 2
+shuju 19
+shujuku 1
+shuli 1
+shuliang 1
+shulie 2
+shunxu 5
+shuo 8
+shuoming 21
+shuping 8
+shuqing 1
+shuru 17
+shurufa 9
+shuxi 2
+shuxiang 2
+shuxing 3
+shuzhi 3
+shuzhuang 2
+shuzi 9
+shuzu 11
+si 4 1 1
+sihu 1
+siji 1
+silu 6
+sm 2
+song 1
+sou 3
+sousuo 2
+suanfa 10
+sudu 4
+suiji 17
+suijizhongzi 2
+suiran 8
+sun 2
+sunshi 1
+suo 4
+suoduan 1
+suofang 6
+suojin 1
+suojing 1
+suoluetu 2
+suoshu 10
+suowei 2
+suoxu 5
+suoyi 5
+suoyin 6
+suoyou 43
+suozai 3
+ta 2 1
+tai 13 4
+tan 8
+tancefa 8
+tancha 1
+tanchu 8
+tang 1 1
+tangxiongdi 2
+tankuang 4
+tao 2
+taozhuang 24
+te 2
+tebie 3
+teding 2
+teli 1
+tengxun 4
+tequan 1
+tese 1
+teshu 10
+texiao 5
+ti 7 3 1
+tian 8 1
+tianji 1
+tianjia 102
+tianxie 1
+tiao 17 5 4
+tiaoji 1
+tiaojian 5
+tiaojie 1
+tiaoshi 16
+tiaoyue 2
+tiaozheng 6
+tiaozhuan 9
+tice 1
+tidai 7
+tidaipin 7
+tietu 2
+tigong 17
+tihuan 11
+tijiao 6
+tili 1
+timu 2
+ting 1
+tinghao 4
+tingzhi 13
+tiqian 2
+tiqu 1
+tisheng 7
+tishi 19
+tishikuang 2
+tixian 1
+tiyan 7
+tong 11 1 1
+tongbu 3
+tongchang 11
+tongcheng 1
+tongguo 53
+tonghua 1
+tonglu 15
+tongming 2
+tongshi 16
+tongxu 1
+tongxun 24
+tongxunlu 1
+tongyang 4
+tongyi 5 3
+tongyici 4
+tongyige 8
+tongyitao 1
+tongyong 8
+tongzhi 36
+tou 9
+touchuan 13
+toufa 12
+touming 1
+touru 2
+touxiang 10
+tu 20
+tubiao 3
+tuchu 6
+tui 2
+tuichang 2
+tuichu 13
+tuijian 8
+tuisong 27
+tuo 4
+tuodong 2
+tuopu 1
+tupian 13
+wa 2
+wai 4
+waibu 8
+waiwang 15
+wan 6
+wanbi 1
+wancheng 24
+wang 8
+wangguan 16
+wangluo 5
+wangzhuang 1
+wanquan 8
+wanshan 1
+wanzheng 7
+wawenti 1
+wazi 1
+wei 179 22 8 1 1 1
+weibu 1
+weichi 3
+weidaima 1
+weidu 2
+weihu 4
+weikong 17
+weile 5
+weishu 2
+weixin 12
+weiyi 5 4
+weiyiliang 1
+weiyu 1
+weizhi 19 1
+wen 5 1 1
+wenben 3
+wendang 10
+wendu 4
+wenjian 96
+wenjianjiang 1
+wenjianming 11
+wenti 33
+wenze 1
+wenzi 2
+wo 13 3
+wocao 1
+wode 2
+wojuede 1
+wom 1
+woshi 4 2
+woyao 1
+wu 18 1 1
+wubi 1
+wudao 8
+wufa 20
+wuli 3
+wulianwang 3
+wutai 16
+wuxiao 3
+wuxu 2
+wuyiyi 2
+wuyong 1
+xi 11 1 1
+xia 35
+xiabiao 8
+xiaci 2
+xiafang 6
+xialai 1
+xiamen 1
+xian 29 1 1 1
+xianchang 1
+xiang 11 5 3 2 1
+xiangdui 14
+xiangduiying 1
+xiangguan 27
+xiangjia 2
+xiangmu 13
+xiangsi 2
+xiangtong 27
+xiangxi 7
+xiangxia 1
+xiangyao 2
+xiangying 2 1
+xianshi 25
+xianxia 4
+xianxiang 2
+xianxing 9
+xianyong 1
+xianyou 4
+xianzhi 5
+xianzhuang 2
+xiao 22
+xiaoguo 12
+xiaohao 2
+xiaohui 2
+xiaolv 2
+xiaoshi 4 4
+xiaowang 1
+xiaoxi 28
+xiaoyi 7
+xiaoyu 1
+xiaozu 5
+xiawen 4
+xiawu 2
+xiawucha 1
+xiayi 9
+xiayige 7
+xiayishou 1
+xiazai 32
+xiazhou 1
+xie 5 4 1
+xiedai 1
+xiemin 1
+xieminxie 1
+xiesi 1
+xieyi 35
+xiezi 1
+xifu 5
+xiha 5
+xihuan 1
+xijie 3
+xilie 3
+xin 29
+xinban 1
+xinbanben 1
+xinde 3 2
+xing 12 1 1
+xingbie 6
+xingneng 18
+xingwei 3
+xingxiang 13
+xingxing 10
+xinjian 1
+xinjiu 1
+xintiao 4
+xintiaobao 1
+xinxi 30
+xinzai 1
+xinzaixinzeng 1
+xinzeng 26
+xiongdi 4
+xitong 10
+xiu 30
+xiufu 11
+xiugai 40
+xiwang 3
+xu 13 1 1
+xuan 24 1
+xuande 1
+xuanping 8
+xuanwu 2
+xuanxiang 3
+xuanxiu 2
+xuanze 16
+xuanzhuan 2
+xuehui 1
+xuesheng 1
+xulie 6
+xuliezhen 1
+xun 1 1
+xuncha 2
+xunhuan 17
+xuni 9
+xunzhao 2
+xunzhifa 1
+xuqiu 9
+xuyao 139
+ya 2
+yan 4
+yanchang 14
+yanchi 3
+yang 1
+yangli 1
+yanjing 4 3
+yanse 5
+yanshi 16
+yanzheng 15
+yao 32
+yaogun 1
+yaoqing 6
+yaoqiu 6
+ye 27 6 1
+yehui 2
+yejiu 2
+yejiushi 2
+yemian 41
+yeshi 6
+yewu 34
+yewufang 2
+yewuming 2
+yeyou 1
+yezi 1
+yi 33 16 13 4 3 1 1 1 1
+yiban 1
+yibian 11
+yibu 10 2
+yichang 7 2 2
+yichu 3 3
+yichubiao 2
+yichuqu 1
+yici 16
+yidan 1
+yidian 7 4
+yiding 4
+yidong 8 5
+yiduan 3
+yifen 2
+yige 64
+yigong 1
+yihou 2
+yiji 13 1
+yijing 21
+yijiu 3
+yike 2
+yikeshu 2
+yikuai 1
+yilai 2
+yilaiyu 4
+yilou 1
+yin 58 3
+yincang 11
+yinchu 1
+yinci 7
+yindao 2
+ying 3 1
+yinggai 6
+yingguangbang 1
+yinghe 1
+yingjian 1
+yingshe 4
+yingwei 1
+yingwen 2
+yingxiang 8
+yingxiao 1
+yingyong 11
+yinhao 1
+yinliang 7
+yinpin 21
+yinqing 11
+yinru 1
+yinshi 3
+yinsi 1
+yinsu 2
+yinwei 6
+yinxiao 2
+yinyue 2
+yiquan 1
+yiran 4
+yishang 5
+yishi 1 1
+yishigan 3
+yishou 6
+yisi 1
+yitian 3
+yiwei 1
+yixia 50 12
+yixie 16
+yiyang 1
+yiyou 3
+yizhang 1
+yizhi 15 3 2 1
+yizhong 6
+yizu 4
+yo 3
+yong 61 1
+yongbu 1
+yongdao 1
+yongfa 4
+yonghu 68
+yongqi 1
+yongtu 1
+yongyu 37
+yongzuo 1
+you 95 14 4 2 2 1
+youbu 1
+youbushi 1
+youci 1
+youdai 1
+youdian 9
+youge 2
+youguan 4
+youhua 25
+youhui 1
+youqiejinyou 1
+youqing 1
+youren 1
+youshi 4 1
+youshihou 3
+yousuo 1
+youxi 50
+youxian 12 7
+youxianji 5 2
+youxiao 3
+youxie 1
+youxiu 1
+youxu 1
+youyi 2
+youyiyi 2
+youyu 20
+yu 46 2 1 1
+yuan 4 1
+yuanben 1
+yuanchang 3
+yuancheng 1
+yuandian 1
+yuangong 3
+yuangongbiao 1
+yuanlai 1
+yuanli 2
+yuanma 2
+yuansheng 1
+yuanshi 3
+yuansu 12
+yuanxing 2
+yuanyang 1
+yuanyin 3
+yuanyuanyin 1
+yuanzhuang 3
+yudao 1
+yue 12
+yueshu 1
+yulan 6
+yule 1
+yuleping 4
+yuliu 4
+yuming 3
+yun 46
+yunduan 9
+yunpan 2
+yunxing 13
+yunxu 15
+yunying 11
+yuqi 1
+yushi 2
+yushu 1
+yuxian 9
+yuyan 6 6
+yuyin 2
+yuyue 1
+zai 99 28
+zaici 14 1
+zaidao 1
+zaihaxifa 1
+zailai 1
+zaina 1
+zaishi 2
+zaixian 6
+zaiyu 1
+zan 4
+zanbu 2
+zanshi 4
+zanting 14
+zanwei 1
+zaocheng 5
+ze 38
+zehui 1
+zeng 4 1
+zengda 1
+zengjia 4
+zengqiang 5
+zengsong 1
+zenme 2
+zhan 3 1
+zhang 1 1
+zhanghao 3
+zhankai 1
+zhanshi 11
+zhanyong 2
+zhao 4
+zhaodao 7
+zhaopian 1
+zhe 19 11 1
+zhebian 1
+zhediefa 1
+zhege 28
+zheli 3
+zhen 11
+zhendui 1
+zheng 3 1
+zhengce 1
+zhengchang 17 1
+zhengchu 3
+zhengge 5
+zhengshi 5
+zhengshu 1 1
+zhengyi 1
+zhengzai 4
+zhengze 1
+zhenren 1
+zheshi 1
+zheteng 6
+zhexie 3
+zheyang 9
+zhezhong 8
+zhi 70 31 2 2 1 1 1 1 1
+zhibo 19
+zhichi 68
+zhidao 7 3
+zhiding 46 1
+zhidu 1 1
+zhidui 2
+zhifu 14 9
+zhihou 5
+zhijian 6
+zhijianzhijie 2
+zhijie 20
+zhikong 6
+zhilian 2
+zhiling 2
+zhineng 10
+zhiqian 11
+zhishao 1
+zhisheng 1
+zhishi 2 2
+zhishu 1
+zhixia 1
+zhixiang 2
+zhixing 8
+zhixu 4
+zhiyao 9
+zhiyi 1
+zhiyou 18
+zhizhen 3
+zhong 86 3
+zhongdian 1
+zhongduan 2
+zhongjian 5
+zhongjianye 1
+zhongwen 12
+zhongxin 1
+zhongxindian 1
+zhongyao 1
+zhongzhi 1
+zhongzhong 1
+zhou 4
+zhoubao 1
+zhousi 1
+zhu 2 2
+zhuan 3
+zhuanfa 2
+zhuang 2 2
+zhuangban 2
+zhuangtai 35
+zhuanhuan 7
+zhuanhuawei 1
+zhuanli 1
+zhuanyong 4
+zhuce 15
+zhudong 10
+zhufu 1
+zhuge 5
+zhui 1
+zhuji 1
+zhujian 1
+zhujizhujian 1
+zhun 2
+zhunbei 8
+zhunque 1
+zhuomian 2
+zhupingmu 1
+zhushi 9
+zhushou 1
+zhuti 3
+zhuyao 11
+zhuye 2
+zhuyi 34
+zhuyin 1
+zi 40 3 3 2
+zidai 1
+zidingyi 2
+zidong 62
+ziduan 26
+zifu 1
+zifuchuan 13
+ziji 10
+zijiedian 5
+zimu 1
+zimulu 2
+zishu 3
+zixing 5
+zixun 6
+ziyan 3
+ziyou 1
+ziyuan 159
+zong 14
+zonggong 1
+zongjie 1
+zongshu 2
+zongti 1
+zou 2 1
+zu 52 1
+zuan 2
+zuanshi 1
+zugou 2
+zuhe 17
+zui 15
+zuichang 2
+zuida 19
+zuidahua 1
+zuidi 1
+zuiduo 12
+zuihao 1
+zuihou 3
+zuijia 13
+zuijian 1
+zuijin 5
+zuixin 1
+zuiyou 7
+zuizhong 5
+zujian 1
+zunxun 1
+zuo 14 4
+zuodao 1
+zuotian 2
+zuowei 12
+zuxian 1
+zuyuan 14
