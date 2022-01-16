@@ -1073,7 +1073,7 @@ qiqing 1
 qishi 2 1
 qita 45
 qitao 1
-qiu 16
+qiu 17
 qiude 1
 qiwang 5
 qiwangyinggai 1
@@ -1185,7 +1185,7 @@ shebei 15
 sheji 30 2
 shejiao 6
 shen 2 1
-shendu 2
+shendu 3
 sheng 6 1
 shengcheng 13
 shengji 12
@@ -1198,7 +1198,7 @@ shenhe 1
 shenme 9
 shenti 7
 shezhi 38
-shi 207 61 4 2 2 1 1
+shi 208 61 4 2 2 1 1
 shibai 24
 shichang 8
 shifen 1
