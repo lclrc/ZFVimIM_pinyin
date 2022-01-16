@@ -286,7 +286,7 @@ daxie 1
 dayin 1
 dayu 2
 dayue 2
-de 141 7 1
+de 143 7 1
 dechu 1
 dedao 12
 defen 1
@@ -610,7 +610,7 @@ huanjing 12
 huanle 1
 huanmu 5
 huanzhuang 3
-hubuxiangjiao 1
+hubuxiangjiao 2
 huchengwei 1
 huchi 1
 hudong 1
@@ -701,7 +701,7 @@ jieya 7
 jifang 1
 jifen 3
 jige 4
-jihe 2
+jihe 3
 jihua 3
 jijiang 3
 jijiayi 1
@@ -1234,7 +1234,7 @@ shouquan 4
 shouxian 1
 shouye 9
 shouyi 16 2
-shu 30 13 2 1
+shu 30 14 2 1
 shuai 1
 shuang 1
 shuangji 2
