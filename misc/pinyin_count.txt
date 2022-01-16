@@ -1840,7 +1840,7 @@ zhushou 1
 zhuti 3
 zhuyao 11
 zhuye 2
-zhuyi 34
+zhuyi 35
 zhuyin 1
 zi 40 3 3 2
 zidai 1
