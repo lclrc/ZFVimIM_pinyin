@@ -1056,7 +1056,7 @@ qianzou 1
 qidong 28
 qie 13
 qiege 2
-qiehuan 31
+qiehuan 32
 qilai 4
 qin 1 1
 qing 41 5
@@ -1850,7 +1850,7 @@ zhuyin 1
 zi 40 3 3 2
 zidai 1
 zidingyi 2
-zidong 62
+zidong 63
 ziduan 26
 zifu 1
 zifuchuan 13
