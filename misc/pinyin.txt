@@ -6306,6 +6306,7 @@ zhongxindian 中心点
 zhongyang 中央
 zhongyao 重要
 zhongyi 众亿
+zhongyingwen 中英文
 zhongyong 中用
 zhongyou 中有
 zhongyu 终于
