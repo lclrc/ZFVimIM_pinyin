@@ -838,7 +838,7 @@ leisi 5
 leixing 69
 li 8 3 2 2 2 1
 lia 6
-lian 3 1 1 1
+lian 3 2 1 1
 liandizhifa 1
 liang 8 4 1
 liangci 2
@@ -1436,11 +1436,12 @@ wojuede 1
 wom 1
 woshi 4 2
 woyao 1
-wu 18 1 1
+wu 18 1 1 1
 wubi 1
 wudao 8
 wufa 20
 wuli 3
+wulian 1
 wulianwang 3
 wutai 16
 wuxiao 3
