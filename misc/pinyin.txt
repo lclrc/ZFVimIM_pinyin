@@ -2801,6 +2801,7 @@ kuohao 括号
 kuozhan 扩展
 kuozhang 扩张
 kuozhanxing 扩展性
+kuse 苦涩
 kuzi 裤子
 ky 可以
 kyi 可以
@@ -3999,7 +4000,7 @@ sasa 飒飒
 sasan 卅三
 sazai 卅载
 sazhong 卅众
-se 色 塞 涩 瑟 啬 铯 穑 嗇 寨 廧 愬 懎 拺 擌 栜 槭 歮 歰 泣 洓 渋 渍 溹 漬 澀 澁 濇 濏 瀒 琗 璱 瘷 穡 穯 粣 繬 蔷 薔 虩 譅 轖 鉍 銫 鎍 鎩 鏼 铋 铩 闟 雭 飋
+se 涩 色 塞 瑟 啬 铯 穑 嗇 寨 廧 愬 懎 拺 擌 栜 槭 歮 歰 泣 洓 渋 渍 溹 漬 澀 澁 濇 濏 瀒 琗 璱 瘷 穡 穯 粣 繬 蔷 薔 虩 譅 轖 鉍 銫 鎍 鎩 鏼 铋 铩 闟 雭 飋
 sen 森 掺 摻 槮 渗 滲 篸 襂
 seng 僧 鬙
 senlin 森林
@@ -4830,8 +4831,9 @@ wancheng 完成
 wande 玩得
 wanfa 玩法
 wanfan 晚饭
-wang 网 往 王 望 忘 亡 汪 旺 枉 妄 惘 罔 尢 辋 魍 亾 仼 兦 匡 尣 尩 尪 尫 彺 徃 徍 忹 抂 暀 朚 朢 棢 瀇 焹 琞 皇 盳 網 莣 菵 蚟 蛧 蝄 誷 輞 迋 迬
+wang 网 往 汪 旺 王 望 忘 亡 枉 妄 惘 罔 尢 辋 魍 亾 仼 兦 匡 尣 尩 尪 尫 彺 徃 徍 忹 抂 暀 朚 朢 棢 瀇 焹 琞 皇 盳 網 莣 菵 蚟 蛧 蝄 誷 輞 迋 迬
 wangbao 网报
+wangchai 汪柴 旺柴
 wangci 忘词
 wangcong 王聪
 wangde 网的
