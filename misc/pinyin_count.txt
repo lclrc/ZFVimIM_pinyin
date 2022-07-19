@@ -1,4 +1,4 @@
-a 9 3
+a 9 4
 ai 2
 aisizhushou 1
 ali 9
@@ -196,9 +196,10 @@ chengwei 10
 chengxu 8
 chengyi 1
 chengyuan 4
-chi 3 1 1
+chi 3 2 1
 chibang 2
 chicun 2
+chigua 1
 chongdingxiang 3
 chongfu 14
 chonggou 2
@@ -251,7 +252,7 @@ cunzai 19
 cuowu 14
 cuowuma 7
 d 648
-da 14 11 1 1
+da 14 12 1 1
 dabao 22
 dabian 1
 daduo 2
@@ -262,6 +263,7 @@ dailai 1
 daima 33
 dajia 1
 dakai 16
+dalian 1
 dan 36 5 1
 danbu 1
 dandu 5
@@ -515,7 +517,7 @@ goujian 2
 goumai 3
 gouxuan 5
 gouzao 2
-gua 2
+gua 2 1
 guajian 8
 guan 6
 guanbi 37
@@ -558,14 +560,14 @@ haishi 11
 haixing 3
 haiyao 1
 haizi 1
-han 1 1
+han 1 1 1
 hang 12
 hanshu 32
 hanyi 1
 hanyou 3
 hao 18 10
 haochu 5
-haode 1
+haode 2
 haomiao 7
 haoshi 3
 haoyong 9
@@ -838,7 +840,7 @@ leisi 5
 leixing 69
 li 8 3 2 2 2 1
 lia 6
-lian 3 2 1 1
+lian 3 3 1 1
 liandizhifa 1
 liang 8 4 1
 liangci 2
@@ -1320,7 +1322,8 @@ tese 1
 teshu 10
 texiao 5
 ti 7 3 1
-tian 8 1
+tian 9 1
+tiana 1
 tianji 1
 tianjia 102
 tianxie 1
@@ -1388,7 +1391,7 @@ tuo 4
 tuodong 2
 tuopu 1
 tupian 13
-wa 2
+wa 2 1
 wai 4
 waibu 8
 waiwang 15
