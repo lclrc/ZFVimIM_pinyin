@@ -63,7 +63,7 @@ biao 30 6
 biaochang 2
 biaoji 13
 biaojiwei 1
-biaoqing 9
+biaoqing 10
 biaoshi 41
 biaoti 1
 biaotou 1
@@ -156,7 +156,7 @@ cengjing 2
 ceshi 121
 cha 19 6 1 1
 chabuduo 5
-chai 3 2 2
+chai 4 3 2
 chaifen 3
 chaixie 1
 chajian 30
@@ -356,7 +356,7 @@ douzai 1
 du 20 1
 duan 18 4 1 1
 duandian 3
-duanyu 1
+duanyu 2
 dui 40 3
 duibi 1
 duichang 13
@@ -678,7 +678,7 @@ jiaoyan 1
 jiaoyou 1
 jiaozuo 1
 jiaru 18 3
-jiayou 2
+jiayou 3
 jiazai 58
 jiazhi 5
 jiben 9
@@ -783,7 +783,7 @@ kaiqi 20
 kaishi 29
 kan 11
 kang 1
-kankan 1
+kankan 2
 kao 1 1
 kaojin 1
 kaolv 24
@@ -806,7 +806,7 @@ kongjian 5 1
 kongshu 3
 kongzhi 21
 kou 1
-ku 6 1
+ku 6 2
 kua 1
 kuai 2
 kuaijie 2
@@ -817,7 +817,7 @@ kuangjia 37
 kunnan 3
 kuohao 5
 kuozhan 8
-kuse 1
+kuse 2
 kuzi 2
 ky 80
 l 45
@@ -908,7 +908,7 @@ mao 3
 mawenjian 1
 mayi 1
 me 1
-mei 13 5
+mei 13 5 1
 meici 8
 meifa 2
 meige 17 2
@@ -1117,6 +1117,7 @@ quzhongfa 1
 ran 1
 rang 6
 rangren 1
+rangwo 1
 ranhou 6
 re 6
 regengxin 4
@@ -1156,7 +1157,7 @@ sanliefa 2
 sanwei 2
 sanzhong 2
 saoma 1
-se 1
+se 2
 seng 1
 senlin 1
 sha 3 1
@@ -1394,8 +1395,8 @@ waiwang 15
 wan 6
 wanbi 1
 wancheng 24
-wang 8 2 1 1
-wangchai 1 1
+wang 8 2 2 2
+wangchai 2 2
 wangguan 16
 wangluo 5
 wangzhuang 1
@@ -1413,7 +1414,7 @@ weihu 4
 weikong 17
 weile 5
 weishu 2
-weixin 12
+weixin 13
 weiyi 5 4
 weiyiliang 1
 weiyu 1
@@ -1649,7 +1650,7 @@ yizhi 15 3 2 1
 yizhong 6
 yizu 4
 yo 3
-yong 61 1
+yong 63 1
 yongbu 1
 yongdao 1
 yongfa 4
@@ -1676,6 +1677,7 @@ youshihou 3
 yousuo 1
 youxi 50
 youxian 12 7
+youxiang 1
 youxianji 5 2
 youxiao 3
 youxie 1
@@ -1820,8 +1822,9 @@ zhongyao 1
 zhongyingwen 1
 zhongzhi 1
 zhongzhong 1
-zhou 4
+zhou 4 1
 zhoubao 1
+zhoumei 1
 zhousi 1
 zhu 2 2
 zhuan 3
@@ -1853,9 +1856,9 @@ zhuyao 11
 zhuye 2
 zhuyi 35
 zhuyin 1
-zi 40 3 3 2
+zi 41 3 3 3
 zidai 1
-zidingyi 3
+zidingyi 4
 zidong 63
 ziduan 26
 zifu 1
@@ -1868,6 +1871,7 @@ zishu 3
 zixing 5
 zixun 6
 ziyan 3
+ziyong 1
 ziyou 1
 ziyuan 159
 zong 14
