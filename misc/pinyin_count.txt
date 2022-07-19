@@ -642,7 +642,7 @@ huojiang 1
 huoqu 49
 huozhe 6
 huxiang 2
-ji 20 10 3 2 1 1 1 1
+ji 20 10 3 2 1 1 1 1 1
 jia 19 3 2 1 1 1
 jiading 1
 jiage 7
@@ -758,7 +758,7 @@ jiyi 2
 jiyidian 1
 jiyu 2 1
 jizhang 1 1
-jizhi 3
+jizhi 3 1
 jizhong 2 1 1
 ju 5 2 1 1 1
 juchang 1
@@ -1785,7 +1785,7 @@ zheteng 6
 zhexie 3
 zheyang 9
 zhezhong 8
-zhi 70 31 2 2 1 1 1 1 1
+zhi 70 31 2 2 2 1 1 1 1
 zhibo 19
 zhichi 68
 zhidao 7 3
